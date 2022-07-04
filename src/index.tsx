@@ -1,10 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './App';
+// import App from './App';
+import App from './05-redux/App';
 import reportWebVitals from './reportWebVitals';
 
-import './01-TSbase/03-object'
+// import './01-TSbase/05-class'
 
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
